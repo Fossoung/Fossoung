@@ -1,4 +1,4 @@
-## **Hi I'm Jacques OlivierFossoung**
+## **Hi I'm Jacques Olivier Fossoung**
 **Welcome to my Github page**
 
 - **I use :**
