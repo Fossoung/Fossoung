@@ -18,7 +18,7 @@ In my free time, I love to play to go the gym, but my favorite hobby is discover
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 </div>
 - How to reach me: 
-<div><a href="https://www.linkedin.com/in/lazar-v-todorovic-3a3312188/">
+<div><a href="https://www.linkedin.com/in//">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
  <a href="mailto:fossoung@gmail.com">
 <img src="https://img.shields.io/badge/Email-blue?logo=Email&logoColor=white"/></a>
