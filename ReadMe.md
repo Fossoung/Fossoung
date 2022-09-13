@@ -1,6 +1,6 @@
 ## **Hi I'm Jacques Olivier Fossoung**
 **Welcome to my Github page**
- <br> My name isJacques Olivier Fossoung and I'm Frontend developer. I'm originally from Serbia, living in Rennes ! <br>
+ <br> My name is Jacques Olivier Fossoung and I'm developer junior. I'm originally from Cameroun, living in Rennes ! <br>
 I had finished program for Web Development by <a href="https://openclassrooms.com/en/">OpenClassrooms</a> .<br>
 In my free time, I love to go the gym, but my favorite hobby is discovert news things !
 <hr>
