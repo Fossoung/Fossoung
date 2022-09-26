@@ -1,9 +1,7 @@
 ## **Hi I'm Jacques Olivier Fossoung**
 **Welcome to my Github page**
  <br> Bienvenue sur ma page Github
-Je m'appelle Jacques Olivier Fossoung et je suis développeur junior. Je suis d'origine camerounaise, j'habite à Rennes !
-J'avais terminé le programme de développement Web par OpenClassrooms .
-Pendant mon temps libre, j'adore aller à la gym, mais mon passe-temps préféré est de découvrir l'actualité !
+Je m'appelle Jacques Olivier Fossoung, Je suis un webmarketeur et dev front-end spécialisé en JavaScript. J’aime créer, identifier et résoudre des problèmes et prendre du plaisir en le faisant. J’aime également apprendre.
 <hr>
 
 
