@@ -1,7 +1,8 @@
 ## **Hi I'm Jacques Olivier Fossoung**
 **Welcome to my Github page**
  <br> Bienvenue sur ma page Github
-Je m'appelle Jacques Olivier Fossoung, Je suis un webmarketeur et dev front-end spécialisé en JavaScript. J’aime créer, identifier et résoudre des problèmes et prendre du plaisir en le faisant. J’aime également apprendre.
+Je m'appelle Jacques Olivier Fossoung, Je suis un webmarketeur et dev front-end spécialisé en JavaScript. J’aime créer, identifier, résoudre des problèmes et surtout prendre du plaisir en le faisant. 
+En outre, J’aime apprendre.
 <hr>
 
 
